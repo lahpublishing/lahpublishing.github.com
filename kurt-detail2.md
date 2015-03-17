@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Brother in Arms - The Lost Archive
-permalink: /kurt_detail.html
+permalink: /kurt-detail2.md
 slider: true
 class: book_inside
 ---
