@@ -1,12 +1,11 @@
 ---
 layout: page
 title: My Brother in Arms - The Lost Archive
-permalink: /kurt-detail2.md
-slider: true
+permalink: /kurt_detail2.html
 class: book_inside
 ---
-<a href="./kurt.html" class="underline">Back to the book...</a>
-<img src="./assets/book_blurb.jpg" id="detail" class="center"/>
+<a href="./kurt2.html" class="underline">Back to the book...</a>
+<img src="./assets/book2_blurb.png" id="detail" class="center"/>
 <p>This latest publication adds further depth to the history of former SS-Obersturmfuhrer (1st Lieutenant) Kurt Sametreiter. This book became possible following the discovery of a 'lost' collection of more than 300 images and documents in 2013.</p>
 <p>The additional archive contains unpublished photographs of Joachim Peiper and Werner Wolff, plus great images of Kurt, Heinz and some of the men who fought alongside them.</p>
 <p>The book follows the same chronological format, adding additional visual insights into Kurt's history. For the first time, the Order of Battle of the Leibstandarte's Panzerjaeger Battalion is laid out.</p>
@@ -22,8 +21,6 @@ class: book_inside
 
 <div id="folio" class="svwp">
   <ul>
-    <li><img alt="Internal illustration page" src="./assets/slide_1.jpg" /></li>
-    <li><img alt="Inside front page" src="./assets/slide_2.jpg" /></li>
-    <li><img alt="Front Cover" src="./assets/slide_3.jpg" /></li>
+    <li><img alt="Internal illustration page" src="./assets/book2_slide.png" /></li>
   </ul>
 </div>
