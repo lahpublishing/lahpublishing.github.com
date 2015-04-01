@@ -16,18 +16,13 @@ permalink: /published.html
 
 <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
 
-<p>Customer Feedback</p>
-<p>As soon as I finished reading this one I started reading it again, and now for a third time.</p>
-
-<p>I have only seen documentary films on the World Wars, and never read any accounts.  All the documentaries I have seen have something deep which is missing from them.  I really don't know even now what missing, but I was never satisfied with their stories.  Maybe that was it.  I always felt I was being told a "story" ... being told what to think.  But finally I now have a book which shows the true nature of the SS soldier and the profound implications for the history we have been fed.  And that nature is just amazing ... to uphold justice with such power.  I had given up hope that any people could be like this.</p>
-
-<p>Besides the nature of the SS soldier, there is also some little implications of the truth of what happened to Germany, and the truth about what The Allies did.</p>
-
-<p>It is also a great thing to read the accounts of those soldiers.  Just their accounts, without any other writing to steer the reader's thoughts.  Hazel Toon-Thorn's comments are helpful, including her own interest in the matter ... "Why?"</p>
-
-<p>I haven't read other books on the truth of what happened to Germany and Hitlers efforts, or the efforts and lives of the people in those times, but I'm sure Russian Asphalt is, for all practical purposes, unique.</p>
-
-<p>What a valuable book!</p>
+<p>Customer Feedback:</p>
+<p>"As soon as I finished reading this one I started reading it again, and now for a third time.</p>
+I have only seen documentary films on the World Wars, and never read any accounts.  All the documentaries I have seen have something deep which is missing from them.  I really don't know even now what missing, but I was never satisfied with their stories.  Maybe that was it.  I always felt I was being told a "story" ... being told what to think.  But finally I now have a book which shows the true nature of the SS soldier and the profound implications for the history we have been fed.  And that nature is just amazing ... to uphold justice with such power.  I had given up hope that any people could be like this.
+Besides the nature of the SS soldier, there is also some little implications of the truth of what happened to Germany, and the truth about what The Allies did.
+It is also a great thing to read the accounts of those soldiers.  Just their accounts, without any other writing to steer the reader's thoughts.  Hazel Toon-Thorn's comments are helpful, including her own interest in the matter ... "Why?"
+I haven't read other books on the truth of what happened to Germany and Hitlers efforts, or the efforts and lives of the people in those times, but I'm sure Russian Asphalt is, for all practical purposes, unique.
+What a valuable book!"
 
 <p>Tim Douglas, Australia</p>
 
