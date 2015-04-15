@@ -55,7 +55,7 @@ permalink: /payment&postage.html
   <tr>
     <th>Location</th>
     <th>Book Cost</th>
-    <th>Postage and Packaging<br />(for 'normal' postage)</th>
+    <th>Postage and Packaging<br />(for 'tracked' postage)</th>
     <th>Total costs<br />(minus PayPal fees)</th>
     <th>Total costs<br />(with PayPal fees)</th>
   </tr>
