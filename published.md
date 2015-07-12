@@ -26,3 +26,27 @@ What a valuable book!"
 
 <p>Tim Douglas, Australia</p>
 
+<h3>Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend by James Wilson</h3>
+<img src="./assets/teenage-warrior.jpeg" alt="Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend" class="books" />
+
+<p>This book, written by James Wilson, covers the personal history of former 12. SS-Panzer Division soldier, Karl-Heinz Decker.</p>
+
+<p>He joined that Division in 1943 and fought with them during the Normandy campaign, where he was wounded and captured</p>
+
+<p>Soft cover, A5 format <br />Price: &pound;13.00 (postage extra)</p>
+
+<p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
+
+<h3>From the Elite Leibstandarte to Lifelong Scapegoat by Manfred Thorn</h3>
+<img src="./assets/elite.png" alt="From Elite Leibstandarte to Lifelong Scapegoat" class="books" />
+
+<p>This new title for 2015, is the memoirs of Manfred Thorn, (1. SS-Panzer Division, Panzer IV driver)</p>
+
+<p>These memoirs cover his life as a youth, then through to service in the Hitler Jugend, then onto his eventual combat service with the elite Leibstandarte SS-Adolf Hitler Division from 1943 through to 1945.</p>
+
+<p>It also covers his post-war experiences as one of the 'Malmedy Men' and also how he build a life for himself after the war.</p>
+
+<p>Hard cover, A5 format, 241 pages. <br />Price: &pound;22.50 (postage extra). Expected late-July 2015.</p>
+
+<p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
+
