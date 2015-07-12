@@ -89,7 +89,7 @@ Thanks for having the book signed for me, a very nice touch.<br />
 reading and collecting for over 25 years, this is a very unique insight in to an
 individual soldier's story and I really like the 'album' presentation.
 
-Quality of biding and papers is excellent - Really pleased to have secured a copy for
+Quality of binding and papers is excellent - Really pleased to have secured a copy for
 myself and this really is a rare insight into a soldier's journey through the pivotal battlefields
 of the war and beyond.
 
