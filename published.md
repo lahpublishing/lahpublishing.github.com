@@ -3,7 +3,7 @@ layout: page
 title: Books Distributed by LAH Publishing
 permalink: /published.html
 ---
-<h3>Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front</h3>
+<h3>"Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front", by Hazel Toon-Thorn</h3>
 <img src="./assets/russian.jpg" alt="Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front" class="books" />
 
 <p>This new title, written by Hazel Toon-Thorn (wife of LSSAH Panzer IV driver, Manfred Thorn), who has compiled a series of recollections from former soldiers of the Waffen-SS.</p>
@@ -26,7 +26,7 @@ What a valuable book!"
 
 <p>Tim Douglas, Australia</p>
 
-<h3>Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend by James Wilson</h3>
+<h3>"Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend" by James Wilson</h3>
 <img src="./assets/teenage-warrior.jpeg" alt="Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend" class="books" />
 
 <p>This book, written by James Wilson, covers the personal history of former 12. SS-Panzer Division soldier, Karl-Heinz Decker.</p>
@@ -37,10 +37,10 @@ What a valuable book!"
 
 <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
 
-<h3>From the Elite Leibstandarte to Lifelong Scapegoat by Manfred Thorn</h3>
+<h3>"From the Elite Leibstandarte to Lifelong Scapegoat" by Manfred Thorn</h3>
 <img src="./assets/elite.png" alt="From Elite Leibstandarte to Lifelong Scapegoat" class="books" />
 
-<p>This new title for 2015, is the memoirs of Manfred Thorn, (1. SS-Panzer Division, Panzer IV driver)</p>
+<p>This new title for 2015, is the memoirs of Manfred Thorn, (1. SS-Panzer Division, Panzer IV driver).</p>
 
 <p>These memoirs cover his life as a youth, then through to service in the Hitler Jugend, then onto his eventual combat service with the elite Leibstandarte SS-Adolf Hitler Division from 1943 through to 1945.</p>
 
