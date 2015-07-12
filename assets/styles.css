@@ -273,6 +273,6 @@ width:600px;
 color: red;
 }
 
-#booksBySameAuthor h3 {
+#booksBySameAuthor h3, #publishedByLAH h3 {
   clear:both;
 }
