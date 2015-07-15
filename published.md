@@ -13,7 +13,7 @@ permalink: /published.html
 
   <p>These memoirs cover his life as a youth, then through to service in the Hitler Jugend, then onto his eventual combat service with the elite Leibstandarte SS-Adolf Hitler Division from 1943 through to 1945.</p>
 
-  <p>It also covers his post-war experiences as one of the 'Malmedy Men' and also how he build a life for himself after the war.</p>
+  <p>It covers his post-war experiences as one of the 'Malmedy Men' and also how he build a life for himself after the war.</p>
 
   <p>Hard cover, A5 format, 240 pages, 122 photos / illustrations, 9 maps. <br />Price: &pound;22.50 (postage extra). Expected late-July 2015.</p>
 
