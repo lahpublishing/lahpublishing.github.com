@@ -17,10 +17,8 @@ class: book_inside
   <li>20 maps that help orientate you to where the story unfolded</li>
 </ul>
 <p>This book has been designed to emulate the original war-time photo albums. The cover is produced with a thick, padded and embossed leatherette material. Inside are 176 pages filled with the history of these two men. The images are laid out on high quality, high gloss paper.</p>
-<!--<p><b>Each of the 100 books are individually numbered and contain the stamped signature of Kurt Sametreiter (He is unable to write due to Parkinson's Disease). The additional Author signature will be added, together with an inscription of your choosing. </b></p>-->
-<p class="soldout">Currently sold out, but waiting list on the go - if you want to go on the list, please email</p>
 
-<p class="soldout">Volume 2 being planned currently - more news to follow.</p>
+<p><b>Each of the 100 books are individually numbered and contain the stamped signature of Kurt Sametreiter (He is unable to write due to Parkinson's Disease). The additional Author signature will be added, together with an inscription of your choosing. </b></p>
 
 <div id="folio" class="svwp">
   <ul>
