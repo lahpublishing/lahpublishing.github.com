@@ -15,7 +15,7 @@ permalink: /published.html
 
   <p>It covers his post-war experiences as one of the 'Malmedy Men' and also how he build a life for himself after the war.</p>
 
-  <p>Hard cover, A5 format, 240 pages, 122 photos / illustrations, 9 maps. <br />Price: &pound;22.50 (postage extra). Expected late-July 2015.</p>
+  <p>Hard cover, A5 format, 240 pages, 122 photos / illustrations, 9 maps. <br />Price: &pound;22.50 (postage extra).</p>
 
   <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
 
