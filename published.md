@@ -6,19 +6,6 @@ permalink: /published.html
 
 <div id="publishedByLAH">
 
-  <h3>"From the Elite Leibstandarte to Lifelong Scapegoat" by Manfred Thorn</h3>
-  <img src="./assets/elite.png" alt="From Elite Leibstandarte to Lifelong Scapegoat" class="books" />
-
-  <p>This new title for 2015, is the memoirs of Manfred Thorn, (1. SS-Panzer Division, Panzer IV driver).</p>
-
-  <p>These memoirs cover his life as a youth, then through to service in the Hitler Jugend, then onto his eventual combat service with the elite Leibstandarte SS-Adolf Hitler Division from 1943 through to 1945.</p>
-
-  <p>It covers his post-war experiences as one of the 'Malmedy Men' and also how he build a life for himself after the war.</p>
-
-  <p>Hard cover, A5 format, 240 pages, 122 photos / illustrations, 9 maps. <br />Price: &pound;22.50 (postage extra).</p>
-
-  <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
-
   <h3>"Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front", by Hazel Toon-Thorn</h3>
   <img src="./assets/russian.jpg" alt="Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front" class="books" />
 
