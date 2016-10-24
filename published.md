@@ -7,7 +7,7 @@ permalink: /published.html
 <div id="publishedByLAH">
 
   <h3>"Many Rivers I Crossed", by Werner Volkner</h3>
-  <img src="./assets/russian.jpg" alt="Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front" class="books" />
+  <img src="./assets/Many Rivers.jpg" alt="Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front" class="books" />
 
   <p>Memoir of World War II German soldier of the Death's Head (Totenkopf) division.</p> 
   
