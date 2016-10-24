@@ -6,28 +6,25 @@ permalink: /published.html
 
 <div id="publishedByLAH">
 
-  <h3>"Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front", by Hazel Toon-Thorn</h3>
+  <h3>"Many Rivers I Crossed", by Werner Volkner</h3>
   <img src="./assets/russian.jpg" alt="Russian Asphalt: Memoirs of the Waffen-SS Soldier on the Eastern Front" class="books" />
 
-  <p>This new title, written by Hazel Toon-Thorn (wife of LSSAH Panzer IV driver, Manfred Thorn), who has compiled a series of recollections from former soldiers of the Waffen-SS.</p>
-
-  <p>These recollections cover all aspects of the fighting against the Soviets between 1941 and 1945, from the heady days of advance into Russia, right up to fighting near Berlin. The book features lots of interview excerpts and is placed within an overall framework of what was unfolding during those years.</p>
-
-  <p>A great insight into the personal experiences of the 'soldier on the ground' during this titanic military struggle. This book contains a Foreword by former SS-Obersturmfuhrer Paul Rosch, who served with the 5th and 16th SS Divisions.</p>
-
-  <p>Soft cover, A5 format, 236 pages, 70 photographs and 6 maps. <br />Price: &pound;17.00 (postage extra)</p>
+  <p>Memoir of World War II German soldier of the Death's Head (Totenkopf) division.</p> 
+  
+  <p>Each copy is hand signed by the veteran himself.</p> 
+  
+  <p>Born in Berlin in 1924, he was the son of a decorated WWI Stormtrooper and Freikorps member, and grew up in Hitler's Germany. He joined the German Scout movement, which was taken over by the Hitler Youth. 
+  
+  <p>In 1942, he joined the Waffen SS, and during the War he saw combat on the Eastern Front at Kharkov and the world's largest tank battle at Kursk. At Kursk, his division fought gallantly against a superior number of soviet divisions at Prokhorova. Shortly after this, he was wounded and later returned to fight as part of a battle group. 
+  
+  <p>When the war ended, he spent three and a half years in various POW camps in Germany, Belgium and finally in England, where he was released in 1948. 
+  
+  <p>He worked on the farm where he had been a POW, and in the 60s he joined the British Army's Royal Armoured Corps. 
+  
+  <p>Soft cover, A5 format, 267 pages, with photos<br />Price: &pound;25.00 (postage extra)</p>
 
   <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
 
-  <p>Customer Feedback:</p>
-  <p>"As soon as I finished reading this one I started reading it again, and now for a third time.</p>
-  I have only seen documentary films on the World Wars, and never read any accounts.  All the documentaries I have seen have something deep which is missing from them.  I really don't know even now what missing, but I was never satisfied with their stories.  Maybe that was it.  I always felt I was being told a "story" ... being told what to think.  But finally I now have a book which shows the true nature of the SS soldier and the profound implications for the history we have been fed.  And that nature is just amazing ... to uphold justice with such power.  I had given up hope that any people could be like this.
-  Besides the nature of the SS soldier, there is also some little implications of the truth of what happened to Germany, and the truth about what The Allies did.
-  It is also a great thing to read the accounts of those soldiers.  Just their accounts, without any other writing to steer the reader's thoughts.  Hazel Toon-Thorn's comments are helpful, including her own interest in the matter ... "Why?"
-  I haven't read other books on the truth of what happened to Germany and Hitlers efforts, or the efforts and lives of the people in those times, but I'm sure Russian Asphalt is, for all practical purposes, unique.
-  What a valuable book!"
-
-  <p>Tim Douglas, Australia</p>
 
   <h3>"Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend" by James Wilson</h3>
   <img src="./assets/teenage-warrior.jpeg" alt="Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend" class="books" />
