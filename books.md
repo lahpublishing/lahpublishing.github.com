@@ -9,7 +9,7 @@ permalink: /books.html
   <img src="./assets/knights3.jpg" alt="Waffen-SS Knights and their Battles Volume 3" class="books" />
 
   <p>This third volume in the on-going series continues the overview of each Waffen-SS unit that fought in World War II, and follows each unit as it was formed and where it fought. Within each of the battles covered, the book focuses specifically on Waffen-SS soldiers awarded the various grades of the Knight's Cross. This book covers the period August to December 1943 and details actions in the chaotic post-Kursk period on the Eastern Front, as well as the opening of the second front in Italy. Unlike previous Knight's Cross books that are reference based works, these books are aimed at providing a detailed account of the part played by each Waffen-SS Knight's Cross holder in each battle. This project was written to answer the questions: How many Knight's Cross holders received their award for the same battle or action? Were they one mile or a thousand miles apart? Did the actions take place on the same day? These books provide the answers. This book also includes a foreword by Kurt Sametreiter, awarded the Knight's Cross while serving with the 1st SS Panzer Division Leibstandarte Adolf Hitler.</p>
-  <p>Price &pound;27.50 (postage extra) </p>
+  <p>Price &pound;29.00 (postage extra) </p>
 
   <h3>Waffen-SS Knights and their Battles - Volume 2: January-July 1943</h3>
   <img src="./assets/knights2.jpg" alt="Waffen-SS Knights and their Battles Volume 2" class="books" />
@@ -17,7 +17,7 @@ permalink: /books.html
 
 
   <p>Volume 2 covers from January until the end of July 1943, covering the critical battles of Kharkov and Kursk (amongst others). It continues the coverage of the Waffen-SS Knight's Cross and Oakleaves awardees, plus the first of the Swords holders. This project has been compiled with the assistance of surviving Waffen-SS Knight's Cross holders and the soldiers that fought alongside them. This volume contains a Foreword by Eberhard Heder, awarded his Knight's Cross whilst serving with the 5th SS-Panzer Division Wiking.</p>
-  <p>This book is available for &pound;27.50; postage and packaging are additional and can be confirmed at the time of order. The book can be signed personally to you, with an inscription of your choice.</p>
+  <p>This book is available for &pound;29.00; postage and packaging are additional and can be confirmed at the time of order. The book can be signed personally to you, with an inscription of your choice.</p>
 
   <h3>Waffen-SS Knights and their Battles - Volume 1: 1939-1942</h3>
   <img src="./assets/knights1.jpg" alt="Waffen-SS Knights and their Battles Volume 1" class="books" />
@@ -29,7 +29,7 @@ permalink: /books.html
 
   <p>Unlike previous Knight's Cross books that are reference based, this project is aimed at providing a detailed account of the part played by each Waffen-SS Knight's Cross holder in each battle during World War Two. This project was written to provide answers to the questions: How many Waffen-SS Knight's Cross holders received their award for the same battle or action? Where they 1 mile, or 1000 miles apart? Did their actions take place on the same day? This multi-volume project will provide those answers. This volume contains a Foreword by Karl Nicolussi-Leck, awarded his Knight's Cross whilst serving with the 5th SS-Panzer Division Wiking.</p>
 
-  <p>This book is available for &pound;27.50; postage and packaging are additional and can be confirmed at the time of order. The book can be signed personally to you, with an inscription of your choice.</p>
+  <p>This book is available for &pound;29.00; postage and packaging are additional and can be confirmed at the time of order. The book can be signed personally to you, with an inscription of your choice.</p>
 
   <h3>Dietrich's Warriors - The History of the 3. Kompanie LSSAH</h3>
   <img src="./assets/dwarriors.jpg" alt="Dietrich's Warriors - The History of the 3. Kompanie LSSAH" class="books" />
