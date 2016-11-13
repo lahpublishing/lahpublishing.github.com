@@ -6,14 +6,14 @@ permalink: /books.html
 ---
 <div id="booksBySameAuthor">
   <h3>Waffen-SS Knights and their Battles Volume 4: January - May 1944</h3>
-  <img src="./assets/Waffen-SS Knights V4.jpg" alt="Waffen-SS Knights and their Battles Volume 4" class="books" />
+  <img src="./assets/Waffen-SS Knights V4 cover.jpg" alt="Waffen-SS Knights and their Battles Volume 4" class="books" />
 
   <p>This fourth volume in the on-going series continues the overview of each Waffen-SS unit that fought in World War II, and follows each unit as it was formed and where it fought. Within each of the battles covered, the book focuses specifically on Waffen-SS soldiers awarded the various grades of the Knight's Cross. This book covers the period January to May 1944 and details actions mainly in the east, as well as actions in the Balkans and Hungary, with 45 Knight’s Crosses, 7 Oakleaves, 3 Swords and the first Diamonds awardees covered. It was written with the help of surviving Knight’s Cross holders and Waffen-SS soldiers that fought alongside them. Original maps detail the significance of each battle and the part played by the various Waffen-SS Knight’s Cross awardees. This fourth volume also includes a foreword by Karl-Heinz Euling, awarded the Knight's Cross while serving with the 10. SS Panzer Division Frundsberg.</p>
   <p>Price &pound;29.00 (postage extra) </p>
   
   
   <h3>Waffen-SS Knights and their Battles Volume 3: August - December 1943</h3>
-  <img src="./assets/Waffen-SS Knights V3.jpg" alt="Waffen-SS Knights and their Battles Volume 3" class="books" />
+  <img src="./assets/Waffen-SS Knights V3 cover.jpg" alt="Waffen-SS Knights and their Battles Volume 3" class="books" />
 
   <p>This third volume in the on-going series continues the overview of each Waffen-SS unit that fought in World War II, and follows each unit as it was formed and where it fought. Within each of the battles covered, the book focuses specifically on Waffen-SS soldiers awarded the various grades of the Knight's Cross. This book covers the period August to December 1943 and details actions in the chaotic post-Kursk period on the Eastern Front, as well as the opening of the second front in Italy. Unlike previous Knight's Cross books that are reference based works, these books are aimed at providing a detailed account of the part played by each Waffen-SS Knight's Cross holder in each battle. This project was written to answer the questions: How many Knight's Cross holders received their award for the same battle or action? Were they one mile or a thousand miles apart? Did the actions take place on the same day? These books provide the answers. This book also includes a foreword by Kurt Sametreiter, awarded the Knight's Cross while serving with the 1. SS Panzer Division Leibstandarte Adolf Hitler.</p>
   <p>Price &pound;29.00 (postage extra) </p>
