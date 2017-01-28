@@ -24,7 +24,7 @@ permalink: /books.html
 
 
   <p>Volume 2 covers from January until the end of July 1943, covering the critical battles of Kharkov and Kursk (amongst others). It continues the coverage of the Waffen-SS Knight's Cross and Oakleaves awardees, plus the first of the Swords holders. This project has been compiled with the assistance of surviving Waffen-SS Knight's Cross holders and the soldiers that fought alongside them. This volume contains a Foreword by Eberhard Heder, awarded his Knight's Cross whilst serving with the 5. SS-Panzer Division Wiking.</p>
-  <p>This book is available for &pound;29.00; postage and packaging are additional and can be confirmed at the time of order. The book can be signed personally to you, with an inscription of your choice.</p>
+  <p>This book is available for &pound;32.00; postage and packaging are additional and can be confirmed at the time of order. The book can be signed personally to you, with an inscription of your choice.</p>
 
   <h3>Waffen-SS Knights and their Battles - Volume 1: 1939-1942</h3>
   <img src="./assets/knights1.jpg" alt="Waffen-SS Knights and their Battles Volume 1" class="books" />
