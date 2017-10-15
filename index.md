@@ -5,8 +5,8 @@ layout: default
 <nav>
   <ul class="over">
     <li><a href="./about.html">About LAH Publishing</a></li>
-    <li><a href="./kurt2.html"><b>My Brother in Arms - The Lost Archive</a></li>
-    <li><a href="./kurt.html"><b>My Brother in Arms</a></li>
+    <li><a href="./kurt2.html"><b>My Brother in Arms - The Lost Archive</<b>/a></li>
+    <li><a href="./kurt.html"><b>My Brother in Arms</<b>/a></li>
     <li><a href="./books.html">Books By The Same Author</a></li>
     <li><a href="./published.html">Books Distributed by LAH Publishing</a></li>
     <li><a href="./europeanvolunteer.html">The European Volunteer magazine</a></li>
