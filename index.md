@@ -5,6 +5,7 @@ layout: default
 <nav>
   <ul class="over">
     <li><a href="./about.html">About LAH Publishing</a></li>
+    <li><a href="./berlin.html">For the defence of Berlin! - Georg Diers, Oskar Schafer & Henri Fenet</a></li>
     <li><a href="./kurt2.html">My Brother in Arms - The Lost Archive</a></li>
     <li><a href="./kurt.html">My Brother in Arms</a></li>
     <li><a href="./books.html">Books By The Same Author</a></li>
