@@ -49,7 +49,7 @@ permalink: /books.html
 
   <h3>Out of print: Kurt Sametreiter history, Volumes 1 and 2</h3>
   <p> fooooo</p>
-  <ul>
+  <ul class="over">
     <li><a href="./kurt2.html">My Brother in Arms - The Lost Archive</a></li>
     <li><a href="./kurt.html">My Brother in Arms</a></li>
   </ul>
