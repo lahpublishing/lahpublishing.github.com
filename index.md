@@ -5,7 +5,7 @@ layout: default
 <nav>
   <ul class="over">
     <li><a href="./about.html">About LAH Publishing</a></li>
-    <li><a href="./berlin_detail.html">For the defence of Berlin! - Georg Diers, Oskar Schafer & Henri Fenet</a></li>
+    <li><a href="./berlin_detail.html"><b>For the defence of Berlin! - Georg Diers, Oskar Schafer & Henri Fenet</b></a></li>
     <li><a href="./books.html">Books By The Same Author</a></li>
     <li><a href="./published.html">Books Distributed by LAH Publishing</a></li>
     <li><a href="./europeanvolunteer.html">The European Volunteer magazine</a></li>
