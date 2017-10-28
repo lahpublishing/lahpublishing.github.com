@@ -6,8 +6,6 @@ layout: default
   <ul class="over">
     <li><a href="./about.html">About LAH Publishing</a></li>
     <li><a href="./berlin_detail.html">For the defence of Berlin! - Georg Diers, Oskar Schafer & Henri Fenet</a></li>
-    <li><a href="./kurt2.html">My Brother in Arms - The Lost Archive</a></li>
-    <li><a href="./kurt.html">My Brother in Arms</a></li>
     <li><a href="./books.html">Books By The Same Author</a></li>
     <li><a href="./published.html">Books Distributed by LAH Publishing</a></li>
     <li><a href="./europeanvolunteer.html">The European Volunteer magazine</a></li>
