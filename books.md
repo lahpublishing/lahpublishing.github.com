@@ -46,4 +46,13 @@ permalink: /books.html
   <p>This work has been compiled with the help of former soldiers of the 3. Kompanie and the 1st SS-Panzer Division, backed up various other sources. It contains 12 original maps and 75 photographs, 35 of these are previously unpublished. In addition to to detailing the 3. Kompanie's actions between 1933-1945, this book also contains biographies on the various Kompanie, Battalion and Regimental Commanders that the 3.Kompanie were led by, where information is available. This book will provide the reader, whether new to this subject or not, with an additional detailed insight into one of history's finest fighting units.</p>
 
   <p>This book is available for &pound;28.00; postage and packaging are additional and can be confirmed at the time of order. The book can be signed personally to you, with an inscription of your choice.</p>
+
+  <h3>Out of print: Kurt Sametreiter history, Volumes 1 and 2</h3>
+  <p> fooooo</p>
+  <ul>
+    <li><a href="./kurt2.html">My Brother in Arms - The Lost Archive</a></li>
+    <li><a href="./kurt.html">My Brother in Arms</a></li>
+  </ul>
+
+
 </div>
