@@ -3,7 +3,7 @@ layout: page
 title: For the defence of Berlin
 permalink: /berlin_detail.html
 slider: true
-class: book_inside
+class: book_cover
 ---
 <a href="./berlin.html" class="underline">Back to the book...</a>
 <img src="./assets/Berlin front cover.jpg" id="detail" class="center"/>
