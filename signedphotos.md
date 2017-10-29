@@ -94,6 +94,9 @@ permalink: /signedphotos.html
   <img src="./assets/Weidinger.jpg" alt="Weidinger" class="books" />
   <img src="./assets/Maringgele.jpg" alt="Maringgele" class="books" />
   <img src="./assets/Reber.jpg" alt="Reber" class="books" />
+  <img src="./assets/Kam.jpg" alt="Kam" class="books" />
+  <img src="./assets/Lainer.jpg" alt="Lainer" class="books" />
+  <img src="./assets/Harmel.jpg" alt="Harmel" class="books" />
   
 </div>
  
