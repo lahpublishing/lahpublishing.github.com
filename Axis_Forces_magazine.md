@@ -29,7 +29,6 @@ permalink: /axisforces.html
   <p>Foreign Volunteer Legion Stamp Propaganda in the Third Reich</p>
   
   <br />
-  <br />
   
   <h3>Edition 2 (April 2017) contents</h3>
   <img src="./assets/Axis Forces cover 2.jpg" alt="Axis Forces second edition" class="books" />
@@ -42,7 +41,6 @@ permalink: /axisforces.html
   <p>Foreign Volunteer Legion Military Award & Insignia</p>
   
   <br />
-  <br />
   
   <h3>Edition 3 (July 2017) contents</h3>
   <img src="./assets/Axis Forces cover 3.jpg" alt="Axis Forces third edition" class="books" />
@@ -54,7 +52,6 @@ permalink: /axisforces.html
   <p>German perception of volunteers of the Muslim division of the SS</p>
   <p>A Swedish Hero: Gösta Hallberg-Cuula</p>
   
-  <br />
   <br />
   <br />
   
