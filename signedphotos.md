@@ -52,6 +52,49 @@ permalink: /signedphotos.html
   
   <br />
   
+  <h3>Various signed photos - individual images can be sent on request</h3>
+  
+  <p>Paul Hausser	signed photo (larger format, with Oakleaves). Price £200.00</p>
+  <p>Theodore Wisch signed book photo & signed letter. Price £50.00</p>
+  <p>Heinz Harmel signed photo page and info page. Price £40.00 </p>
+  <p>Sylvester Stadler signed photocopy page and signed letter. Price £40.00</p>
+  <p>Karl Ullrich signed Knight's Cross postcard and info page. Price £35.00</p>
+  <p>Karl Kreutz signed photo & 4 signed letters / notes. Price £45.00</p>
+  <p>Otto Weidinger signed photo and info page. Price £40.00</p>
+  <p>Fritz Richter signed photo and info page. Price £30.00</p>
+  <p>Karl Sattler signed Knight's Cross postcard and picture info page. Price £30.00</p>
+  <p>Fritz Rieflin signed photo and info page. Price £30.00</p>
+  <p>Rudolf Sandig signed Knight's Cross postcard and picture info page. Price £30.00</p>
+  <p>Johannes Scherg signed Knight's Cross postcard and picture info page. Price £30.00</p>
+  <p>Walter Schmidt signed Knight's Cross postcard and headed signed letter. Price £35.00</p>
+  <p>Alfred Schneidereit signed photocopy picture info page. Price £25.00</p>
+  <p>Gustav Schreiber signed photo and info page. Price £30.00</p>
+  <p>Heinrich Sonne signed Knight's Cross award photo info page. Price £30.00</p>
+  <p>Gustav-Peter Reber signed photo and info page. Price £30.00</p>
+  <p>Walter Reder signed photo, headed and signed photo from 1986, signed letter from Gaeta 1972. Price £50.00</p>
+  <p>Hermann Marringgele signed photo and info page. Price £30.00</p>
+  <p>Sepp Lainer signed photo and info page. Price £30.00</p>
+  <p>Kurt Launer signed photo and info page. Price £30.00</p>
+  <p>Hans-Heinrich Lohmann signed photo and info page. Price £35.00</p>
+  <p>Willi Hund signed photo. Price £30.00</p>
+  <p>Heinz Jurgens signed photo and info page. Price £30.00</p>
+  <p>Soren Kam signed photo and info page. Price £30.00</p>
+  <p>Karl-Heinz Gustavsson signed photo and info page. Price £30.00</p>
+  <p>Franz Hack signed photo and info page. Price £40.00</p>
+  <p>Gerhard Fischer signed photo and info page. Price £30.00</p>
+  <p>Hugo Eichorn signed photo and info page. Price £30.00</p>
+  <p>Jakob Fick signed photo and info page. Price £30.00</p>
+  
+  
+  <img src="./assets/Richter.jpg" alt="Richter" class="books" />
+  <img src="./assets/Rudolf Sandig.jpg" alt="Rudolf Sandig" class="books" />
+  <img src="./assets/Weidinger.jpg" alt="Weidinger" class="books" />
+  <img src="./assets/Maringgele.jpg" alt="Maringgele" class="books" />
+  <img src="./assets/Reber.jpg" alt="Reber" class="books" />
+ 
+  <br />
+  <br />
+  
   <h3>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></h3>
 
 </div>
