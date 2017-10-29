@@ -89,16 +89,19 @@ permalink: /signedphotos.html
   <p>Hugo Eichorn signed photo and info page. Price £30.00</p>
   <p>Jakob Fick signed photo and info page. Price £30.00</p>
   
-  
   <img src="./assets/Richter.jpg" alt="Richter" class="books" />
   <img src="./assets/Rudolf Sandig.jpg" alt="Rudolf Sandig" class="books" />
   <img src="./assets/Weidinger.jpg" alt="Weidinger" class="books" />
   <img src="./assets/Maringgele.jpg" alt="Maringgele" class="books" />
   <img src="./assets/Reber.jpg" alt="Reber" class="books" />
   
-   </ul>
 </div>
  
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
   <br />
   <br />
   
