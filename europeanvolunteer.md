@@ -20,16 +20,7 @@ permalink: /europeanvolunteer.html
   
   <br />
   
-  <h3>Edition 00 (December 2015) contents</h3>
-  <img src="./assets/European Volunteer 00.jpg" alt="The European Volunteer first edition" class="books" />
-  
-  <p>Formation and Employment of the SS Langemarck Brigade</p>
-  <p>Unterscharführer Harald Nugiseks</p>
-  <p>Italian Volunteers in the Waffen SS</p>
-  <p>The 8.SS-Kavallerie-Division 'Florian Geyer' at Nyiregyhaza</p>
-  <p>Frikorps Danmark</p>
-  <p>5.SS-Freiwillige Sturmbrigade Wallonien</p>
-  <p>The French SS-Freiwilligen-Sturmbrigade</p>
+  <h3>Edition 00 (December 2015) Out of Print</h3>
   
   <br />
   <br />
