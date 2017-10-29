@@ -8,6 +8,7 @@ layout: default
     <li><a href="./berlin_detail.html"><b>For the defence of Berlin! - Georg Diers, Oskar Schafer & Henri Fenet</b></a></li>
     <li><a href="./books.html">Books By The Same Author</a></li>
     <li><a href="./published.html">Books Distributed by LAH Publishing</a></li>
+    <li><a href="./axisforces.html">Axis Forces magazine</a></li>
     <li><a href="./europeanvolunteer.html">The European Volunteer magazine</a></li>
     <li><a href="./testimonials.html">Customer Testimonials</a></li>
     <li><a href="./contact.html">Contact LAH Publishing</a></li>
