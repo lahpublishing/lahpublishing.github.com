@@ -51,6 +51,10 @@ permalink: /signedphotos.html
   <p>Price is: £250.00</p>
   
   <br />
+  <br />
+  <br />
+  <br />
+  <br />
   
   <h3>Various signed photos - individual images can be sent on request</h3>
   
@@ -91,6 +95,9 @@ permalink: /signedphotos.html
   <img src="./assets/Weidinger.jpg" alt="Weidinger" class="books" />
   <img src="./assets/Maringgele.jpg" alt="Maringgele" class="books" />
   <img src="./assets/Reber.jpg" alt="Reber" class="books" />
+  
+   </ul>
+</div>
  
   <br />
   <br />
