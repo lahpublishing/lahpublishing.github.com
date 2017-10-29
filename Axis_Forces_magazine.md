@@ -8,8 +8,7 @@ permalink: /axisforces.html
 
   <h3>"Axis Forces - WW2 magazine"</h3>
   
-  <p>Publisher: L'Assalto Edizioni, Italy</p>
-  <p>New magazine of military history (English language) dedicated to German and Axis forces.</p>
+  <p>New magazine (booklet) of military history (English language) dedicated to German and Axis forces.</p>
 
   <p>Format: 25.5 X 18</p>
   <p>Pages: 80 approx</p>
