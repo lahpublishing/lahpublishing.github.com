@@ -48,7 +48,7 @@ permalink: /books.html
   <p>This book is available for &pound;28.00; postage and packaging are additional and can be confirmed at the time of order. The book can be signed personally to you, with an inscription of your choice.</p>
 
   <h3>Out of print: Kurt Sametreiter history, Volumes 1 and 2</h3>
-  <p> fooooo</p>
+  <p> The original, 200 signed and numbered special editions are out of print. There are plans to produce a condensed (best of the best) version in 2018, which will be a normal hardback, landscape photo book</p>
   <ul class="over">
     <li><a href="./kurt2.html">My Brother in Arms - The Lost Archive</a></li>
     <li><a href="./kurt.html">My Brother in Arms</a></li>
