@@ -5,8 +5,6 @@ permalink: /signedphotos.html
 ---
 
 <div id="signedphotos">
-
-  <h3>"Signed Knight's Cross photographs & Documents"</h3>
   
   <p>Below is the current list of available signed Waffen-SS Knight's Cross holder photographs and documents</p>
 
