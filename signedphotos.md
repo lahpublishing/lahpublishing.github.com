@@ -23,7 +23,7 @@ permalink: /signedphotos.html
   <p>Placed underneath a wartime Knight's Cross, Oakleaves and Swords postcard</p>
   <p>The postcard is Nr. 5 from the 'Die Kriegsorden des Grossdeutschen Reiches' series</p>
   <p>Mounted in a cream and black mount, ready to add to a frame of your chosing.</p>
-  <p>Price is: 300GBP</p>
+  <p>Price is: £300.00</p>
   
   <br />
   
