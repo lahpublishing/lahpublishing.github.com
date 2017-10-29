@@ -46,7 +46,7 @@ permalink: /signedphotos.html
   <h3>Karl Brenner</h3>
   <img src="./assets/Karl Brenner.jpg" alt="Karl Brenner" class="books" />
   
-  Wartime signed document</p>
+  <p>Wartime signed document</p>
   <p>Karl Brenner commanded the 6. SS-Gebirgs Division 'Nord'</p>
   <p>Brenner was awarded the Knight's Cross</p>
   <p>This document is discussing and approving the award for two of his soldiers.</p>
