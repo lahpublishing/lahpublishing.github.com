@@ -61,7 +61,7 @@ permalink: /axisforces.html
   <p>The battle for Narva, 1944</p>
   <p>Heinrich Sonne, Knight's Cross Holder with the 1.SS-Inf.Brigade</p>
   <p>The "MONTEROSA" Alpine Division of the R.S.I.</p>
-  <p>The 14.SS-Freiwilligen-Division Galizische</p>
+  <p>The 14. SS-Freiwilligen-Division Galizische</p>
   <p>Japan in War</p>
   <p>Eastern Volunteers insignia</p>
   
