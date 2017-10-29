@@ -37,7 +37,7 @@ permalink: /signedphotos.html
   <p>Kleinheisterkamp was awarded the Knight's Cross with Oakleaves</p>
   <p>He commanded multiple SS-Divisions and SS-Korps</p>
   <p>Kleinheisterkamp commanded more Korps-level commands that any other Waffen-SS soldier.</p>
-  <p>Price is: £250.00</p>
+  <p>Price is: £300.00</p>
   
   <br />
   
