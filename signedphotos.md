@@ -106,6 +106,3 @@ permalink: /signedphotos.html
   <br />
   
   <h3>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></h3>
-
-</div>
-
