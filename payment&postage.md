@@ -26,9 +26,9 @@ permalink: /payment&postage.html
   <tr>
     <td>Europe</td>
     <td>&pound;20.00</td>
-    <td>&pound;5.15.00</td>
+    <td>&pound;5.15</td>
     <td>&pound;25.15</td>
-    <td>&pound;26.75.00</td>
+    <td>&pound;26.75</td>
   </tr>
   <tr>
     <td>U.S.A. (& Canada)</td>
@@ -45,6 +45,4 @@ permalink: /payment&postage.html
     <td>&pound;29.50</td>
   </tr>
 </table>
-<p>Payment can be made (in &pound;'s Sterling) via cheque, Paypal transfer or bank transfer</p>
-
 <p>Payment can be made (in &pound;'s Sterling) via cheque, Paypal transfer or bank transfer</p>
