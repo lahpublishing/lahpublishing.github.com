@@ -5,7 +5,7 @@ permalink: /payment&postage.html
 ---
 
 <p>
-  The cost of For the defence of Berlin &pound;20.00; postage, packing and Paypal fees will be additional. Please see below for current postage rates (as of November 2017).
+  The cost of 'For the defence of Berlin!' &pound;20.00; postage, packing and Paypal fees will be additional. Please see below for current postage rates (as of November 2017).
 </p>
 
 <table>
