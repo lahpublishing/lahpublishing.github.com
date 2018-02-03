@@ -17,6 +17,7 @@ class: book_cover
   <li>A5, hardbacked book, full gloss internal pages</li>
   <li>102 photographs / documents - the vast majority from the personal archive of Georg Diers</li>
   <li>Price is £20.00 (postage to be confirmed at the time of order)</li>
+  <li>Limited Edition signed by Klaus Grotjahn: Price is £30.00 (postage to be confirmed at the time of order)</li>
 </ul>
 
 <div id="folio" class="svwp">
