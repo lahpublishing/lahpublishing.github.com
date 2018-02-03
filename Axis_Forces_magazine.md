@@ -67,6 +67,19 @@ permalink: /axisforces.html
   
   <br />
   <br />
+  
+  <h3>Edition 5 (January 2018) contents</h3>
+  <img src="./assets/Axis 005.jpg" alt="Axis Forces fifth edition" class="books" />
+  
+  <p>The battle for Narva, 1944 – 2nd part</p>
+  <p>Georg Diers – (s) SS-Pz. Abt. 503 Tank Commander</p>
+  <p>The Albanian element of Waffen-SS</p>
+  <p>The Leibstandarte with Army Group North</p>
+  <p>Hungarian Armored Forces in WW2</p>
+  <p>Italian Eastern Front Awards</p>
+
+  <br />
+  <br />
   <br />
   
   <h3>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></h3>
