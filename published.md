@@ -6,26 +6,20 @@ permalink: /published.html
 
 <div id="publishedByLAH">
 
-  <h3>"Many Rivers I Crossed", by Werner Volkner</h3>
-  <img src="./assets/Many Rivers.jpeg"/>
+  <h3>"From the elite Leibstandarte to lifelong scapegoat", by Manfred Thorn</h3>
+  <img src="./assets/elite.png"/>
   <br/>
   <br/>
   <br/>
   <br/>
 
-  <p>Memoir of World War II German soldier of the Death's Head (Totenkopf) division.</p> 
+  <p>Memoir of a World War II German soldier of the 1. SS-Panzer Division 'Leibstandarte SS-Adolf Hitler'.</p> 
   
-  <p>Each copy is hand signed by the veteran himself.</p> 
+  <p>This is the personal memoirs of former Panzer IV driver, Manfred Thorn, who served in the 1. SS-Panzer Division LSSAH, from 1943 to 1945, seeing action in Russia, Normandy, Ardennes, Hungary / Austria, serving under Joachim Peiper. 
   
-  <p>Born in Berlin in 1924, he was the son of a decorated WWI Stormtrooper and Freikorps member, and grew up in Hitler's Germany. He joined the German Scout movement, which was taken over by the Hitler Youth. 
+  <p>This also covers his recollections from the post-war "Malmedy" trial.
   
-  <p>In 1942, he joined the Waffen SS, and during the War he saw combat on the Eastern Front at Kharkov and the world's largest tank battle at Kursk. At Kursk, his division fought gallantly against a superior number of soviet divisions at Prokhorova. Shortly after this, he was wounded and later returned to fight as part of a battle group. 
-  
-  <p>When the war ended, he spent three and a half years in various POW camps in Germany, Belgium and finally in England, where he was released in 1948. 
-  
-  <p>He worked on the farm where he had been a POW, and in the 60s he joined the British Army's Royal Armoured Corps. 
-  
-  <p>Soft cover, A5 format, 267 pages, with photos<br />Price: &pound;25.00 (postage extra)</p>
+  <p>Hard cover, A5 format, 240 pages, with photos<br />Price: &pound;22.50 (postage extra)</p>
 
   <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
 
