@@ -5,7 +5,7 @@ permalink: /reich_detail.html
 slider: true
 class: book_cover
 ---
-<a href="./reich.html" class="underline">Back to the book...</a>
+
 <img src="./assets/Reich main cover.png" id="detail" class="center"/>
 <p>This latest publication covers the memoirs of Klaus Grotjahn.  He was a member of the Hitler Youth and served on a searchlight crew in Dusseldorf, before being sent to Stettin when he turned 16 years old. He was assigned to the crew of an 88mm Flak gun and that crew is credited with shooting down 5 enemy aircraft and also the destruction of 5 enemy tanks.</p>
 <p>In early-April 1945, Klaus was sent into Berlin as the Soviet troops made their way through Pommerania. Due to that move, he was caught up in the final battle for the capital of the Third Reich.</p>
