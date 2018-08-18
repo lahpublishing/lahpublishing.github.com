@@ -13,7 +13,7 @@ permalink: /published.html
   <br/>
   <br/>
 
-  <p>Memoir of a World War II German soldier of the 1. SS-Panzer Division 'Leibstandarte SS-Adolf Hitler'.</p> 
+  <p>This 2018 reprint of the memoirs of a World War II German soldier of the 1. SS-Panzer Division 'Leibstandarte SS-Adolf Hitler'.</p> 
   
   <p>This is the personal memoirs of former Panzer IV driver, Manfred Thorn, who served in the 1. SS-Panzer Division LSSAH, from 1943 to 1945, seeing action in Russia, Normandy, Ardennes, Hungary / Austria, serving under Joachim Peiper. 
   
