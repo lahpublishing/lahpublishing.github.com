@@ -21,8 +21,8 @@ class: book_cover
 
 <div id="folio" class="svwp">
   <ul>
-    <li><img alt="Contents page" src="./assets/Berlin content.jpg" /></li>
-    <li><img alt="Internal page" src="./assets/Berlin internal.jpg" /></li>
+    <li><img alt="Contents page" src="./assets/Reich full cover.png" /></li>
+    <li><img alt="Internal page" src="./assets/Reich dad.png" /></li>
     <li><img alt="Additional internals" src="./assets/Berlin internal 2.jpg" /></li>
     <li><img alt="Full cover" src="./assets/Berlin full cover.jpg" /></li>
     <li><img alt="Cover edge" src="./assets/Berlin cover edge.jpg" /></li>
