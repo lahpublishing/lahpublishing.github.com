@@ -1,23 +1,22 @@
 ---
 layout: page
-title: For the defence of Berlin
+title: For the defence of the Reich
 permalink: /reich_detail.html
 slider: true
 class: book_cover
 ---
-<a href="./berlin.html" class="underline">Back to the book...</a>
-<img src="./assets/Berlin front cover.jpg" id="detail" class="center"/>
-<p>This latest publication covers the memoirs of SS-Unterscharfuhrer Georg Diers, SS-Untersturmfuhrer Oskar Schafer and Waffen-Hauptsturmfuhrer Henri Fenet, who all fought in Berlin in the closing days of the Second World War.</p>
-<p>The basis of this book originally appeared in the German language, under the title 'Tiger in Berlin', by Georg Diers. This expanded English language version has the additions of Oskar Schafer's memoirs, obtained face to face, plus also a translation of Henri Fenet's personal memoirs covering his time in Berlin.</p>
-<p>Two of these men would be awarded the Knight's Cross towards the end of April 1945, the other would receive the First Class Iron Cross.</p>
-<p>Each soldier's recollections are in their words, and paint a vivid picture of what their life was like during the final struggle for the capital of the Third Reich.</p>
-<p>There is a foreword from Klaus Grotjahn, who was a 16-year old Luftwaffe Flak helper, sent into Berlin and attached to the SS-Division 'Nordland'. He crossed paths with Diers and some of the other men mentioned in this book.</p>
+<a href="./reich.html" class="underline">Back to the book...</a>
+<img src="./assets/Reich main cover.jpeg" id="detail" class="center"/>
+<p>This latest publication covers the memoirs of Klaus Grotjahn.  He was a member of the Hitler Youth and served on a searchlight crew in Dusseldorf, before being sent to Stettin when he turned 16 years old. He was assigned to the crew of an 88mm Flak gun and that crew is credited with shooting down 5 enemy aircraft and also the destruction of 5 enemy tanks.</p>
+<p>In early-April 1945, Klaus was sent into Berlin as the Soviet troops made their way through Pommerania. Due to that move, he was caught up in the final battle for the capital of the Third Reich.</p>
+<p>Once that fighting concluded, he was taken prisoner and spent 5 years in Soviet prisoner of war camps.</p>
 <ul class="over">
-  <li>188 pages</li>
+  <li>225 pages</li>
   <li>A5, hardbacked book, full gloss internal pages</li>
-  <li>102 photographs / documents - the vast majority from the personal archive of Georg Diers</li>
-  <li>Price is £20.00 (postage to be confirmed at the time of order)</li>
-  <li>Limited Edition signed by Klaus Grotjahn: Price is £30.00 (postage to be confirmed at the time of order)</li>
+  <li>90 photographs / documents - the vast majority from the personal archive of Klaus Grotjahn</li>
+  <li>Price is £22.50 (postage to be confirmed at the time of order)</li>
+  <li>Limited Edition signed by Klaus Grotjahn: Price is £32.50 (postage to be confirmed at the time of order)</li>
+  <li>Signed photographs of Klaus Grotjahn are also available: Price is £10.00 each (4 to choose from)</li>
 </ul>
 
 <div id="folio" class="svwp">
