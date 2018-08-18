@@ -5,7 +5,7 @@ permalink: /berlin_detail.html
 slider: true
 class: book_cover
 ---
-<a href="./berlin.html" class="underline">Back to the book...</a>
+
 <img src="./assets/Berlin front cover.jpg" id="detail" class="center"/>
 <p>This latest publication covers the memoirs of SS-Unterscharfuhrer Georg Diers, SS-Untersturmfuhrer Oskar Schafer and Waffen-Hauptsturmfuhrer Henri Fenet, who all fought in Berlin in the closing days of the Second World War.</p>
 <p>The basis of this book originally appeared in the German language, under the title 'Tiger in Berlin', by Georg Diers. This expanded English language version has the additions of Oskar Schafer's memoirs, obtained face to face, plus also a translation of Henri Fenet's personal memoirs covering his time in Berlin.</p>
