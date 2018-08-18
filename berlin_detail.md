@@ -7,7 +7,7 @@ class: book_cover
 ---
 
 <img src="./assets/Berlin front cover.jpg" id="detail" class="center"/>
-<p>This latest publication covers the memoirs of SS-Unterscharfuhrer Georg Diers, SS-Untersturmfuhrer Oskar Schafer and Waffen-Hauptsturmfuhrer Henri Fenet, who all fought in Berlin in the closing days of the Second World War.</p>
+<p>This 2018 publication covers the memoirs of SS-Unterscharfuhrer Georg Diers, SS-Untersturmfuhrer Oskar Schafer and Waffen-Hauptsturmfuhrer Henri Fenet, who all fought in Berlin in the closing days of the Second World War.</p>
 <p>The basis of this book originally appeared in the German language, under the title 'Tiger in Berlin', by Georg Diers. This expanded English language version has the additions of Oskar Schafer's memoirs, obtained face to face, plus also a translation of Henri Fenet's personal memoirs covering his time in Berlin.</p>
 <p>Two of these men would be awarded the Knight's Cross towards the end of April 1945, the other would receive the First Class Iron Cross.</p>
 <p>Each soldier's recollections are in their words, and paint a vivid picture of what their life was like during the final struggle for the capital of the Third Reich.</p>
