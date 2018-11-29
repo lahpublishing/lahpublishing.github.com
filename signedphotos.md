@@ -6,7 +6,6 @@ permalink: /signedphotos.html
 
 <div id="signedphotos">
   
-  <p>The previous list of signed Waffen-SS Knight's Cross holder photographs and documents have all been sold</p>
-
-  <p>However, I am expecting delivery of a new batch (August 2018), so keep watching this space for details</p>
-  <p>Thanks</p>
+  <p>Interested in obtaining hand-signed photographs of the Knight's Cross holders from the Second World War? If yes, please click on the following link to view the lists of photos currently available, which cover all arms of service from that conflict (Heer, Kriegsmarine, Luftwaffe, Waffen-SS and others.</p>
+  <br />
+  <p>Many of the photographs also come with letters, envelopes, career summaries or other documentation.</p>
