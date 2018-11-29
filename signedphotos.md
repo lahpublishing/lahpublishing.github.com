@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Signed Knight's Cross holder photographs / documents
+title: Signed Knight's Cross holder photographs
 permalink: /signedphotos.html
 ---
 
