@@ -8,7 +8,7 @@ layout: default
     <li><a href="./reich_detail.html"><b>For the defence of the Reich - Klaus Grotjahn</b></a></li>
     <li><a href="./berlin_detail.html">For the defence of Berlin! - Georg Diers, Oskar Schafer & Henri Fenet</a></li>
     <li><a href="./books.html">Books By The Same Author</a></li>
-    <li><a href="./"https://www.lahphotographs.com">Signed Knight's Cross photographs for sale</a></li>
+    <li><a href="https://www.lahphotographs.com">Signed Knight's Cross photographs for sale</a></li>
     <li><a href="./axisforces.html">Axis Forces magazine</a></li>
     <li><a href="./published.html"><b>Books Distributed by LAH Publishing</b></a></li>
     <li><a href="./europeanvolunteer.html">The European Volunteer magazine</a></li>
