@@ -23,7 +23,7 @@ class: book_cover
 <div id="folio" class="svwp">
   <ul>
     <li><img alt="Contents page" src="./assets/Nation internal 3.jpg" /></li>
-    <li><img alt="Internal page" src="./assets/Nation internal 1.jpg" /></li>
+    <li><img alt="Internal page" src="./assets/Nation internal.jpg" /></li>
     <li><img alt="Additional internals" src="./assets/Nation internal 2.jpg" /></li>
     <li><img alt="Full cover" src="./assets/Nation internal 4.jpg" /></li>
     <li><img alt="Cover edge" src="./assets/Nation cover 2.jpg" /></li>
