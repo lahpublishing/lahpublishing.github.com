@@ -17,7 +17,7 @@ class: book_cover
   <li>Over 115 photographs / documents / maps</li>
   <li>Price is £25.00 (postage to be confirmed at the time of order)</li>
   <li>Limited quantity of signed bookplates from Zvonimir Bernwald: Price is £35.00 (postage to be confirmed at the time of order)</li>
-  <li>Signed photographs of Zvonimir Bernwald are also available: Price is £10.00 each (various choose from)</li>
+  <li>Signed photographs of Zvonimir Bernwald are also available: Price is £10.00 each (various to choose from)</li>
 </ul>
 
 <div id="folio" class="svwp">
