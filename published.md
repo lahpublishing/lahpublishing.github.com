@@ -45,16 +45,4 @@ permalink: /published.html
 
   <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
 
-
-  <h3>"Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend" by James Wilson</h3>
-  <img src="./assets/teenage-warrior.jpeg" alt="Hitler's Teenaged Warriors: Karl-Heinz Decker 12th SS-Panzer Division Hitlerjugend" class="books" />
-
-  <p>This book, written by James Wilson, covers the personal history of former 12. SS-Panzer Division soldier, Karl-Heinz Decker.</p>
-
-  <p>He joined that Division in 1943 and fought with them during the Normandy campaign, where he was wounded and captured</p>
-
-  <p>Soft cover, A5 format <br />Price: &pound;13.00 (postage extra)</p>
-
-  <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
-
 </div>
