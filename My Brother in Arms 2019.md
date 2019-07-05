@@ -25,12 +25,12 @@ class: book_cover
     <li><img alt="Rear cover" src="./assets/MBIA rear cover 2019.jpeg" /></li>
     <li><img alt="Internal page" src="./assets/MBIA 2019 internal 1.png" /></li>
     <li><img alt="Additional internals" src="./assets/MBIA 2019 internal 2.png" /></li>
-    <li><img alt="Internals" src="./assets/MBIA 2019 internal 3.png" /></li>
-    <li><img alt="Cover edge" src="./assets/MBIA 2019 internal 4.png" /></li>
-    <li><img alt="Cover edge" src="./assets/MBIA 2019 internal 5.png" /></li>
-    <li><img alt="Cover edge" src="./assets/MBIA 2019 internal 6.png" /></li>
-    <li><img alt="Cover edge" src="./assets/MBIA 2019 internal 7.png" /></li>
-    <li><img alt="Cover edge" src="./assets/MBIA 2019 internal 8.png" /></li>
+    <li><img alt="Internal page" src="./assets/MBIA 2019 internal 3.png" /></li>
+    <li><img alt="Internal page" src="./assets/MBIA 2019 internal 4.png" /></li>
+    <li><img alt="Internal page" src="./assets/MBIA 2019 internal 5.png" /></li>
+    <li><img alt="Internal page" src="./assets/MBIA 2019 internal 6.png" /></li>
+    <li><img alt="Internal page" src="./assets/MBIA 2019 internal 7.png" /></li>
+    <li><img alt="Internal page" src="./assets/MBIA 2019 internal 8.png" /></li>
   </ul>
 </div>
 
