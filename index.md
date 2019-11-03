@@ -1,8 +1,4 @@
- ---
-layout: default
----
-
-<nav>
+ <nav>
   <ul class="over">
     <li><a href="./about.html">About LAH Publishing</a></li>
     <li><a href="./My_Brother_in_Arms_2019.html"><b>My Brother in Arms - Peter Mooney & Kurt Sametreiter</b></a></li>
