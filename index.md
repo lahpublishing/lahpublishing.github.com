@@ -150,6 +150,3 @@
           <td>
           </ul>
 </nav>
-<div id="logo">
-  <img src="./assets/logo.png">
-</div>
