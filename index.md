@@ -43,7 +43,7 @@
             <td colspan="2" class="link"><a href="./contact.html">Contact LAH Publishing</a></td>
         </tr>
         <tr>
-            <td colspan="2"><a href="./shows.html">Shows we're attending </a></td>
+            <td colspan="2" class="link"><a href="./shows.html">Shows we're attending </a></td>
         </tr>
         <tr>
             <td colspan="2" class="link"><a href="./testimonials.html">Customer Testimonials</a></td>
