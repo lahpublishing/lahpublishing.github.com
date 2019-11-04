@@ -1,8 +1,7 @@
 <nav>
     <table id="frontNav">
         <tr>
-            <td><a href="./about.html">About LAH Publishing</a></td>
-            <td>&nbsp;</td>
+            <td colspan="2"><a href="./about.html">About LAH Publishing</a></td>
         </tr>  
         <tr>
             <td><a href="./My_Brother_in_Arms_2019.html"><b>My Brother in Arms - Peter Mooney & Kurt Sametreiter</b></a></td>
@@ -41,20 +40,16 @@
             <td><img src="./assets/TEV mag No1.jpg"/></td>
         </tr>
         <tr>
-            <td><a href="./contact.html">Contact LAH Publishing</a></td>
-            <td>&nbsp;</td>
+            <td colspan="2"><a href="./contact.html">Contact LAH Publishing</a></td>
         </tr>
         <tr>
-            <td><a href="./shows.html">Shows we're attending </a></td>
-            <td>&nbsp;</td>
+            <td colspan="2"><a href="./shows.html">Shows we're attending </a></td>
         </tr>
         <tr>
-            <td><a href="./testimonials.html">Customer Testimonials</a></td>
-            <td>&nbsp;</td>
+            <td colspan="2"><a href="./testimonials.html">Customer Testimonials</a></td>
         </tr>
         <tr>
-            <td><a href="./payment&postage.html">Payment Methods &amp; Postage costs </a></td>
-            <td>&nbsp;</td>
+            <td colspan="2"><a href="./payment&postage.html">Payment Methods &amp; Postage costs </a></td>
         </tr>
     </table>
 </nav>
