@@ -131,9 +131,6 @@ background-repeat: no-repeat;
 }
 
 nav{
-    width: 50%;
-    display: block;
-    float: left;
     font-family: Bradley Hand ITC TT Bold;
 }
 
@@ -147,6 +144,10 @@ nav#events{
 nav#events span, #main b{
 	font-family: Abadi MT Condensed Extra Bold;
 }
+
+table#frontNav tr td.link {
+	text-align:left;
+} 
 
 #logo{
     width: 50%;
