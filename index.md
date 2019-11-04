@@ -21,7 +21,7 @@
             <td><img src="./assets/Berlin cover graphic.png"/></td>
         </tr>
         <tr>
-            <td><a href="./books.html">Books By The Same Author</a></li></td>
+            <td><a href="./books.html">Books By The Same Author</a></td>
             <td><img src="./assets/Waffen-SS Knights V4 cover graphic.png"/></td>
         </tr>
         <tr>
@@ -58,6 +58,3 @@
         </tr>
     </table>
 </nav>
-<div id="logo">
-    <img src="./assets/logo.png">
-</div>
