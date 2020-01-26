@@ -4,7 +4,11 @@
             <td colspan="2" class="link"><a href="./about.html">About LAH Publishing</a></td>
         </tr>  
         <tr>
-            <td class="link"><a href="./My_Brother_in_Arms_2019.html"><b>My Brother in Arms - Peter Mooney & Kurt Sametreiter</b></a></td>
+            <td class="link"><a href="./Das_Reich_Tiger_Commander.html"><b>Das Reich Tiger Commander: Philipp Theiss - Peter Mooney</b></a></td>
+            <td><img src="./assets/BIA 2019 cover graphic.png"/></td>
+        </tr>
+        <tr>
+            <td class="link"><a href="./My_Brother_in_Arms_2019.html">My Brother in Arms - Peter Mooney & Kurt Sametreiter</a></td>
             <td><img src="./assets/BIA 2019 cover graphic.png"/></td>
         </tr>
         <tr>
