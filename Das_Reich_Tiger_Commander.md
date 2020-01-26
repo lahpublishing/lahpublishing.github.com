@@ -31,9 +31,9 @@ Loyalty and Honour Publishing are confident that all aspects detailed in this bo
     <li><img alt="Internal page" src="./assets/RAD page.png" /></li>
     <li><img alt="Internal page" src="./assets/Steiner page.png" /></li>
     <li><img alt="Internal page" src="./assets/MG13 page.png" /></li>
-    <li><img alt="Internal page" src="./assets/Bad Tolz docs.png" /></li>
+    <li><img alt="Internal page" src="./assets/Bad Tolz docs page.png" /></li>
     <li><img alt="Internal page" src="./assets/Ustuf page.png" /></li>
-    <li><img alt="Internal page" src="./assets/Tiger crews.png" /></li>
+    <li><img alt="Internal page" src="./assets/Tiger crews page.png" /></li>
   </ul>
 </div>
 
