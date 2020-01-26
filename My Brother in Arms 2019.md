@@ -17,7 +17,7 @@ class: book_cover
   <li>Hard back</li>
   <li>192 gloss pages</li>
   <li>500+ photos, documents, maps, illustrations</li>
-  <li>Price is £40.00 (postage to be confirmed at time of ordering)</li>
+  <li>Price is £45.00 (postage to be confirmed at time of ordering)</li>
 </ul>  
 
 <div id="folio" class="svwp">
