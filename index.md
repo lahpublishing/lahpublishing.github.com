@@ -5,7 +5,7 @@
         </tr>  
         <tr>
             <td class="link"><a href="./Das_Reich_Tiger_Commander.html"><b>Das Reich Tiger Commander: Philipp Theiss - Peter Mooney</b></a></td>
-            <td><img src="./assets/BIA 2019 cover graphic.png"/></td>
+            <td><img src="./assets/Cover page.jpeg"/></td>
         </tr>
         <tr>
             <td class="link"><a href="./My_Brother_in_Arms_2019.html">My Brother in Arms - Peter Mooney & Kurt Sametreiter</a></td>
