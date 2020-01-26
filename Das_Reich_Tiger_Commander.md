@@ -13,7 +13,7 @@ class: book_cover
 <p>That Waffen-SS service took him through various component units of the SS-Division Das Reich, including SS-Regiments Der Führer and Langemarck, then finally the schwere Panzer Kompanie, with SS officer training at Bad Tölz during that time too.</p> 
 <p>Philipp fought with the Panzer Kompanie in Kharkov and Kursk, being killed in action on the 15th of July 1943; at that point, he was the Acting Kompanie Commander.</p>
 <p>Philipp's story is told through more than 270 photographs, almost 30 documents and 70 letters / fieldpost cards. Besides tracing his story, his wife Else features throughout the book. Life for her and some of Philipp's Kameraden, following Philipp's death, is covered towards the end of the book.</p> 
-Loyalty and Honour Publishing are confident that all aspects detailed in this book will increase the understanding of that historical period.</p>
+Loyalty and Honour Publishing are confident that all aspects detailed in this book will increase the understanding of that historical period.
 <p>The book format and contents are:
 <ul class="over">
   <li>A4 Landscape format</li>
