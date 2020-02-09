@@ -7,6 +7,7 @@ class: book_cover
 ---
 
 <img src="./assets/Cover page big.png" id="detail" class="center"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NzddLMQV4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p><b>Das Reich Tiger Commander – Philipp Theiss</b></p>
 <p>'Das Reich Tiger Commander' traces the history of Philipp Theiss, someone whose connection to the Third Reich organisations began at an early age, when he joined the Deutsches Jungvolk.</p>
 <p>He carried on through the Hitlerjugend, Reichs Arbeits Dienst, SS-Verfügungstruppen and finally, the Waffen-SS.</p> 
