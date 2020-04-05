@@ -7,6 +7,7 @@ class: book_cover
 ---
 
 <img src="./assets/Reich main cover 2.png" id="detail" class="center"/>
+<iframe width="360" height=2315" src="https://www.youtube.com/embed/QRCzI-IqEWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
 <p>This latest publication covers the memoirs of Klaus Grotjahn.  He was a member of the Hitler Youth and served on a searchlight crew in Dusseldorf, before being sent to Stettin when he turned 16 years old. He was assigned to the crew of an 88mm Flak gun and that crew is credited with shooting down 5 enemy aircraft and also the destruction of 5 enemy tanks.</p>
 <p>In early-April 1945, Klaus was sent into Berlin as the Soviet troops made their way through Pommerania. Due to that move, he was caught up in the final battle for the capital of the Third Reich.</p>
 <p>Once that fighting concluded, he was taken prisoner and spent 5 years in Soviet prisoner of war camps.</p>
