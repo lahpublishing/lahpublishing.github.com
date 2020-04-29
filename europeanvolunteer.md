@@ -16,9 +16,7 @@ permalink: /europeanvolunteer.html
   <p>Price £6.00</p>
   <p>Publisher: L'Assalto Edizioni, Italia</p>
   <p>Chief Editor: Massimiliano Afiero</p>
-  <p>Printed quarterly</p> 
-  
-  <br />
+ 
   <br />
   
   <h3>Edition 01 (March 2016) contents</h3>
@@ -33,7 +31,6 @@ permalink: /europeanvolunteer.html
   <p>The French SS-Freiwilligen-Sturmbrigade</p>
   
   <br />
-  <br />
   
   <h3>Edition 02 (June 2016) contents</h3>
   <img src="./assets/European Volunteer 02.jpg" alt="The European Volunteer third edition" class="books" />
@@ -46,7 +43,6 @@ permalink: /europeanvolunteer.html
   <p>Karl-Heinz Knapp</p>
   <p>The 'Nord' Division and the battle of Salla</p>
   
-  <br />
   <br />
   
   <h3>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></h3>
