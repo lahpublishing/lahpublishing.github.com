@@ -48,5 +48,3 @@ maps: true
 <p>All of the well known WWII forums, plus various Facebook pages contain multiple customer testimonials from people all over the globe, who have added various Loyalty and Honour book titles to their libraries; many of those customers eagerly await the new titles to be released! <br />
 
 </p>
-
-</p>
