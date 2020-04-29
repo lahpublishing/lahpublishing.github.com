@@ -19,10 +19,6 @@ permalink: /europeanvolunteer.html
   <p>Printed quarterly</p> 
   
   <br />
-  
-  <h3>Edition 00 (December 2015) Out of Print</h3>
-  
-  <br />
   <br />
   
   <h3>Edition 01 (March 2016) contents</h3>
@@ -50,22 +46,6 @@ permalink: /europeanvolunteer.html
   <p>Karl-Heinz Knapp</p>
   <p>The 'Nord' Division and the battle of Salla</p>
   
-  <br />
-  <br />
-  <br />
-  
-  <h3>Edition 03 (September 2016) contents</h3>
-  <img src="./assets/European Volunteer 03 cover.jpg" alt="The European Volunteer third edition" class="books" />
-  
-  <p>SS Cavalry Units on the Eastern Front</p>
-  <p>SS-Stürmbannführer Heinrich Springer</p>
-  <p>Norwegian Volunteers on the Finnish Front</p>
-  <p>17. SS “Gotz von Berlichingen” in Normandy, July 1944</p>
-  <p>Legion of French Volunteers Against Bolshevism</p>
-  <p>SS-Ünterscharführer Paul Brandstetter</p>
-  <p>Hitler’s Obersalzberg</p>
-  
-  <br />
   <br />
   <br />
   
