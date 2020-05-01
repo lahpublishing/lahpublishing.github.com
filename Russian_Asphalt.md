@@ -22,6 +22,7 @@ plus Hans Kemnitzer who provides a great insight into life as a Russian prisoner
 These recollections are in their own words, without editing. This is deliberate and aimed at increasing your 
 knowledge of the Second World War. <p>The book format and contents are:
 <ul class="over">
+  <li>Foreword by SS-Ostuf. Paul Rosch</li>
   <li>A5 Potrait format</li>
   <li>Hard back</li>
   <li>240 gloss pages</li>
@@ -30,15 +31,12 @@ knowledge of the Second World War. <p>The book format and contents are:
 
 <div id="folio" class="svwp">
   <ul>
-    <li><img alt="Internal page" src="./assets/Index page.png" /></li>
-    <li><img alt="Internal page" src="./assets/Rear cover page.png" /></li>
-    <li><img alt="Internal page" src="./assets/HJ page.png" /></li>
-    <li><img alt="Internal page" src="./assets/RAD page.png" /></li>
-    <li><img alt="Internal page" src="./assets/Steiner page.png" /></li>
-    <li><img alt="Internal page" src="./assets/MG13 page.png" /></li>
-    <li><img alt="Internal page" src="./assets/Bad Tolz docs page.png" /></li>
-    <li><img alt="Internal page" src="./assets/Ustuf page.png" /></li>
-    <li><img alt="Internal page" src="./assets/Tiger crews page.png" /></li>
+    <li><img alt="Internal page" src="./assets/RA internal 1.png" /></li>
+    <li><img alt="Internal page" src="./assets/RA internal 2.png" /></li>
+    <li><img alt="Internal page" src="./assets/RA internal 3.png" /></li>
+    <li><img alt="Internal page" src="./assets/RA internal 4.png" /></li>
+    <li><img alt="Internal page" src="./assets/RA internal 5.png" /></li>
+    <li><img alt="Internal page" src="./assets/RA internal 6.png" /></li>
   </ul>
 </div>
 
