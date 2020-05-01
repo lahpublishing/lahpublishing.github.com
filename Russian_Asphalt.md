@@ -1,0 +1,47 @@
+---
+layout: page
+title: Russian Asphalt: Hazel Toon-Thorn
+permalink: /Russian_Asphalt.html
+slider: true
+class: book_cover
+---
+
+<img src="./assets/RA cover website big.png" id="detail" class="center"/>
+<p><b>Russian Asphalt: The experiences of the Waffen-SS soldier on the Eastern Front – Hazel Toon-Thorn</b></p>
+<p>'Russian Asphalt' provides a series of personal insights into some of the experiences of the fighting soldiers of the Waffen-SS 
+during their time on the Eastern Front between 1941 and 1945. 
+<br>
+This is a collection of personal memories from various soldiers who ranged from Grenadiers to Kompanie Commanders, 
+and also include a soldier awarded the Knight’s Cross to the Iron Cross for his bravery. 
+These memories begin the heady days of the initial Barbarossa invasion in mid-1941 and end near the capital of the Third Reich, Berlin, 
+in 1945. 
+<br>
+The men who have been kind enough to recount their memories served in the following Waffen-SS formations: 
+Leibstandarte SS-Adolf Hitler (Friedel Speckhardt, Manfred Thorn, Kurt Sametreiter, Erwin Bartmann, Georg Ott, Gert Pries), 
+SS-Wiking (Paul Rosch, Gunther Adam, Jan Munk and Heinz Graber), 
+plus Hans Kemnitzer who provides a great insight into life as a Russian prisoner of war. 
+<br>
+Some of the men featured in these pages have sadly died since they were kind enough to talk to the Author. 
+These recollections are in their own words, without editing. This is deliberate and aimed at increasing your 
+knowledge of the Second World War. <p>The book format and contents are:
+<ul class="over">
+  <li>A5 Potrait format</li>
+  <li>Hard back</li>
+  <li>240 gloss pages</li>
+  <li>Price is £25.00 (postage to be confirmed at time of ordering)</li>
+</ul>  
+
+<div id="folio" class="svwp">
+  <ul>
+    <li><img alt="Internal page" src="./assets/Index page.png" /></li>
+    <li><img alt="Internal page" src="./assets/Rear cover page.png" /></li>
+    <li><img alt="Internal page" src="./assets/HJ page.png" /></li>
+    <li><img alt="Internal page" src="./assets/RAD page.png" /></li>
+    <li><img alt="Internal page" src="./assets/Steiner page.png" /></li>
+    <li><img alt="Internal page" src="./assets/MG13 page.png" /></li>
+    <li><img alt="Internal page" src="./assets/Bad Tolz docs page.png" /></li>
+    <li><img alt="Internal page" src="./assets/Ustuf page.png" /></li>
+    <li><img alt="Internal page" src="./assets/Tiger crews page.png" /></li>
+  </ul>
+</div>
+
