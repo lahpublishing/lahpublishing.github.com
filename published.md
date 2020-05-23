@@ -8,11 +8,9 @@ permalink: /published.html
 
   <h3>"Many Rivers I Crossed", by Werner Volkner</h3>
   <img src="./assets/Rivers cover 1.jpg"/>
+  <iframe width="360" height="215" src="https://www.youtube.com/embed/QmjMPR2Knro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br/>
   <br/>
-  <br/>
-  <br/>
-
   <p>2019 reprint of the memoirs of a World War II German soldier of the 3. SS-Panzer Division 'Totenkopf', originally printed in 2004.</p> 
   
   <p>This is the personal memoirs of former Flak crew member, Werner Volkner, who served in the 3. SS-Panzer Division, from 1943 to 1945, seeing action in the Ukraine, Romania and Poland. 
