@@ -8,7 +8,7 @@ permalink: /published.html
 
   <h3>"Many Rivers I Crossed", by Werner Volkner</h3>
   <img src="./assets/Rivers cover 1.jpg"/>
-  <iframe width="360" height="215" src="https://www.youtube.com/embed/QmjMPR2Knro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="360" height="215" src="https://www.youtube.com/embed/QmjMPR2Knro" frameborder="0" allow="accelerometer; autoplay;  encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
   <br/>
   <br/>
   <p>2019 reprint of the memoirs of a World War II German soldier of the 3. SS-Panzer Division 'Totenkopf', originally printed in 2004.</p> 
