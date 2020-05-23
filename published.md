@@ -8,6 +8,8 @@ permalink: /published.html
 
   <h3>"Many Rivers I Crossed", by Werner Volkner</h3>
   <img src="./assets/Rivers cover 1.jpg"/>
+  <br/>
+  <br/>
   <iframe width="360" height="215" src="https://www.youtube.com/embed/QmjMPR2Knro" frameborder="0" allow="accelerometer; autoplay;  encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
   <br/>
   <br/>
