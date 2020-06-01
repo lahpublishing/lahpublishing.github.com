@@ -35,7 +35,7 @@ permalink: /published.html
   <iframe width="360" height="215" src="https://www.youtube.com/embed/aq2JL36vDYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
   <br/>
   <br/>
-  <p>THIS BOOK IS CURRENTLY OUT OF PRINT (If you would like to be added to the wait list, please contact us. </p>
+  <p>THIS BOOK IS CURRENTLY OUT OF PRINT (If you would like to be added to the wait list, please contact us). </p>
   <br/>
   <p>This 2018 reprint of the memoirs of a World War II German soldier of the 1. SS-Panzer Division 'Leibstandarte SS-Adolf Hitler'.</p> 
   
