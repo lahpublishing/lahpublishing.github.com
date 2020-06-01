@@ -33,7 +33,7 @@
         </tr>
         <tr>
             <td class="link"><a href="./published.html"><b>Books Distributed by LAH Publishing</b></a></td>
-            <td><img src="./assets/Rivers cover 1.jpg"/></td>
+            <td><img src="./assets/Werner Rivers cover copy.png"/></td>
         </tr>
         <tr>
             <td class="link"><a href="https://www.lahphotographs.com">Signed Knight's Cross photographs for sale</a></td>
