@@ -7,6 +7,8 @@ class: book_cover
 ---
 
 <img src="./assets/RA cover website big.png" id="detail" class="center"/>
+
+<iframe width="360" height="215" src="https://www.youtube.com/embed/aVam0bcluss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
 <p><b>Russian Asphalt: The experiences of the Waffen-SS soldier on the Eastern Front – Hazel Toon-Thorn</b></p>
 <p>'Russian Asphalt' provides a series of personal insights into some of the experiences of the fighting soldiers of the Waffen-SS 
 during their time on the Eastern Front between 1941 and 1945. 
