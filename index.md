@@ -4,8 +4,12 @@
             <td colspan="2" class="link"><a href="./about.html">About LAH Publishing</a></td>
         </tr>  
         <tr>
+            <td class="link"><a href="./Waffen-SS_Knights_and_their_Battles_Volume_5.html"><b>Waffen-SS Knights and their Battles: Volume 5 - June to August 1944: Peter Mooney</b></a></td>
+            <td><img src="./assets/Cover page.png"/></td>
+        </tr>
+        <tr>
             <td class="link"><a href="./Russian_Asphalt.html"><b>Russian Asphalt: Experiences of the Waffen-SS soldier on the Eastern Front - Hazel Toon-Thorn</b></a></td>
-            <td><img src="./assets/RA cover website.png"/></td>
+            <td><img src="./assets/Waffen-SS Knights V5 cover small.png"/></td>
         </tr>
         <tr>
             <td class="link"><a href="./Das_Reich_Tiger_Commander.html"><b>Das Reich Tiger Commander: Philipp Theiss - Peter Mooney</b></a></td>
