@@ -4,7 +4,7 @@
             <td colspan="2" class="link"><a href="./about.html">About LAH Publishing</a></td>
         </tr>  
         <tr>
-            <td class="link"><a href="./Waffen-SS_Knights_and_their_Battles_Volume_5.html"><b>Waffen-SS Knights and their Battles: Volume 5 - June to August 1944: Peter Mooney</b></a></td>
+            <td class="link"><a href="./Waffen-SS_Volume_5.html"><b>Waffen-SS Knights and their Battles: Volume 5 - June to August 1944: Peter Mooney</b></a></td>
             <td><img src="./assets/Waffen-SS Knights V5 cover small.png"/></td>
         </tr>
         <tr>
