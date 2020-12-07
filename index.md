@@ -9,7 +9,7 @@
         </tr>
         <tr>
             <td class="link"><a href="./Russian_Asphalt.html"><b>Russian Asphalt: Experiences of the Waffen-SS soldier on the Eastern Front - Hazel Toon-Thorn</b></a></td>
-            <td><img src="./assets/RA cover.png"/></td>
+            <td><img src="./assets/RA cover website.png"/></td>
         </tr>
         <tr>
             <td class="link"><a href="./Das_Reich_Tiger_Commander.html"><b>Das Reich Tiger Commander: Philipp Theiss - Peter Mooney</b></a></td>
