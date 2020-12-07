@@ -31,12 +31,11 @@ the awards detailed within. An intense volume and one that will add to your over
 <div id="folio" class="svwp">
   <ul>
     <li><img alt="Internal page" src="./assets/WSS V5 Contents.png" /></li>
-    <li><img alt="Internal page" src="./assets/WSS V5 Maps.png" /></li>
     <li><img alt="Internal page" src="./assets/WSS V5 Internal 1.png" /></li>
     <li><img alt="Internal page" src="./assets/WSS V5 Internal 2.png" /></li>
     <li><img alt="Internal page" src="./assets/WSS V5 Internal 3.png" /></li>
-    <li><img alt="Internal page" src="./assets/WSS V5 rear cover.png" /></li>
     <li><img alt="Internal page" src="./assets/WSS V5 Appendices.png" /></li>
+    <li><img alt="Internal page" src="./assets/WSS V5 rear cover.png" /></li>
   </ul>
 </div>
 
