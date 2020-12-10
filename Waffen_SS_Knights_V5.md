@@ -7,6 +7,8 @@ class: book_cover
 ---
 
 <img src="./assets/Waffen-SS Knights V5 cover big.png" id="detail" class="center"/>
+<img src="./assets/Cover page big.png" id="detail" class="center"/>
+<iframe width="360" height="215" src="https://www.youtube.com/embed/EbbPi3gkAhI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
 <p>'Waffen-SS Knights and their Battles - Volume 5: June to August 1944'  This is the fifth volume of the on-going project that is detailing 
 the chronological bestowal of all Knight’s Cross related awards to the soldiers of the Waffen-SS during the Second World War. 
 <p>This volume will cover the timeframe from the start of June to the end of August 1944. It will focus on the Allied landings in Normandy, 
