@@ -9,8 +9,8 @@ class: book_cover
 <img src="./assets/MBIA cover 2019.png" id="detail" class="center"/>
 <iframe width="360" height="215" src="https://www.youtube.com/embed/4cWTGCaNxGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
 <br>
-<p><b>Please note: This book title is currently out of print. It will be reprinted later in 2021 - contact me to go on the wait list</b></p>
 <br>
+<p><b>Please note: This book title is currently OUT OF PRINT. It will be reprinted later in 2021 - contact me to go on the wait list</b></p>
 <br>
 <p><b>My Brother in Arms – Kurt Sametreiter and Heinz Klose with the Waffen-SS in WWII</b></p>
 <p>This book details the history of Kurt (Austrian) and Heinz (Danziger) and their service in the Waffen-SS, which took them through Poland, the West, the Balkans, Operation Barbarossa, Kharkov, Kursk, Italy, Russia 1943 / 1944, Normandy and Pomerania. The story is told using hundreds of their photographs and surviving documents, together with maps and illustrations to help frame each chapter.</p>
