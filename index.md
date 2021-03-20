@@ -12,7 +12,7 @@
             <td><img src="./assets/Waffen-SS Knights V5 cover small.png"/></td>
         </tr>
         <tr>
-            <td class="link"><a href="./Russian_Asphalt.html"><b>Russian Asphalt: Experiences of the Waffen-SS soldier on the Eastern Front - Hazel Toon-Thorn</b></a></td>
+            <td class="link"><a href="./Russian_Asphalt.html">Russian Asphalt: Experiences of the Waffen-SS soldier on the Eastern Front - Hazel Toon-Thorn</a></td>
             <td><img src="./assets/RA cover website.png"/></td>
         </tr>
         <tr>
