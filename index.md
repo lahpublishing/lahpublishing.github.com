@@ -4,6 +4,10 @@
             <td colspan="2" class="link"><a href="./about.html">About LAH Publishing</a></td>
         </tr>  
         <tr>
+            <td class="link"><a href="./Sommer_1943.html"><b>Sommer 1943 - SS-Panzer Division Totenkopf: Peter Mooney</b></a></td>
+            <td><img src="./assets/Sommer Book cover.png"/></td>
+        </tr>
+        <tr>
             <td class="link"><a href="./Waffen_SS_Knights_V5.html"><b>Waffen-SS Knights and their Battles: Volume 5 - June to August 1944: Peter Mooney</b></a></td>
             <td><img src="./assets/Waffen-SS Knights V5 cover small.png"/></td>
         </tr>
