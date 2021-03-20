@@ -6,7 +6,7 @@ slider: true
 class: book_cover
 ---
 
-<img src="./assets/Sommer Book cover.png" id="detail" class="center"/>
+<img src="./assets/Sommer Book cover main.png" id="detail" class="center"/>
 <iframe width="360" height="215" src="https://www.youtube.com/embed/gyzNpNVAtSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
 <p><b>Sommer 1943 – SS Panzer Division Totenkopf</b></p>
 <p>'Sommer 1943' is a reprint of a 1943 obscure book, ‘Sommer 1943’, which focused on the campaigns of Kursk and the Mius for the men of the Totenkopf Division. 
