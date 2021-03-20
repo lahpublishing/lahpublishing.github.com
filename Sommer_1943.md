@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sommer 1943 SS Panzer Division Totenkopf
+title: Sommer 1943 - SS Panzer Division Totenkopf
 permalink: /Sommer_1943.html
 slider: true
 class: book_cover
