@@ -21,7 +21,7 @@ Loyalty and Honour Publishing are confident that all aspects detailed in this bo
   <li>Hard back</li>
   <li>177 matt (slightly embossed) pages</li>
   <li>270+ photos, 30 documents, 70 fieldpost letters</li>
-  <li>Price is £45.00 (postage to be confirmed at time of ordering)</li>
+  <li>Price is £50.00 (postage to be confirmed at time of ordering)</li>
 </ul>  
 
 <div id="folio" class="svwp">
