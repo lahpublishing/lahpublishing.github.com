@@ -10,8 +10,6 @@ class: book_cover
 <iframe width="360" height="215" src="https://www.youtube.com/embed/4cWTGCaNxGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
 <br>
 <br>
-<p><b>Please note: This book title is currently OUT OF PRINT. It will be reprinted later in 2021 - contact me to go on the wait list</b></p>
-<br>
 <p><b>My Brother in Arms – Kurt Sametreiter and Heinz Klose with the Waffen-SS in WWII</b></p>
 <p>This book details the history of Kurt (Austrian) and Heinz (Danziger) and their service in the Waffen-SS, which took them through Poland, the West, the Balkans, Operation Barbarossa, Kharkov, Kursk, Italy, Russia 1943 / 1944, Normandy and Pomerania. The story is told using hundreds of their photographs and surviving documents, together with maps and illustrations to help frame each chapter.</p>
 <p>Kurt would be awarded the Knight’s Cross for this actions during the Kursk tank battle, Heinz was killed in action in early 1944. Between them, they served in SS-Totenkopfverband ‘Oberbayern’, SS-Heimwehr Danzig, SS-Totenkopf Division, the Leibstandarte SS-Adolf Hitler and SS-Division Nederland.</p>
@@ -22,7 +20,7 @@ class: book_cover
   <li>Hard back</li>
   <li>192 gloss pages</li>
   <li>500+ photos, documents, maps, illustrations</li>
-  <li>Price is £45.00 (postage to be confirmed at time of ordering)</li>
+  <li>Price is £50.00 (postage to be confirmed at time of ordering)</li>
 </ul>  
 
 <div id="folio" class="svwp">
