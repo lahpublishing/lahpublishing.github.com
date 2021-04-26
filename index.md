@@ -8,7 +8,7 @@
             <td><img src="./assets/Sommer Book cover.png"/></td>
         </tr>
          <tr>
-            <td class="link"><a href="./My_Brother_in_Arms_2019.html"><b>My Brother in Arms - Peter Mooney & Kurt Sametreiter</a></td>
+            <td class="link"><a href="./My_Brother_in_Arms_2019.html"><b>My Brother in Arms - Peter Mooney & Kurt Sametreiter</b></a></td>
             <td><img src="./assets/BIA 2019 cover graphic.png"/></td>
         </tr>
         <tr>
