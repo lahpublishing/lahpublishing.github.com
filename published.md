@@ -44,7 +44,7 @@ permalink: /published.html
   
   <p>This also covers his recollections from the post-war "Malmedy" trial.
   
-  <p>Hard cover, A5 format, 240 pages, with photos<br />Price: &pound;£27.50 (postage extra)</p>
+  <p>Hard cover, A5 format, 240 pages, with photos<br />Price: &pound;27.50 (postage extra)</p>
 
   <p>Please email with your order to <a href="mailto:contactus@lahpublishing.com">contactus@lahpublishing.com</a></p>
 
