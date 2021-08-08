@@ -6,7 +6,7 @@ slider: true
 class: book_cover
 ---
 
-<img src="./assets/Cover page big.png" id="detail" class="center"/>
+<img src="./assets/Wach Battalion Web.png" id="detail" class="center"/>
 <iframe width="360" height="215" src="https://www.youtube.com/embed/bgP41baQ9os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
 <p><b>VII. Battalion LSSAH 1942</b></p>
 <p>'VII. Battalion LSSAH 1942' documents the history of the Leibstandarte's Guard Battalion during 1942.</p>
