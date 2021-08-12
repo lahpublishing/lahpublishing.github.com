@@ -5,7 +5,7 @@
         </tr>  
         <tr>
             <td class="link"><a href="./VII_Battalion_LSSAH_1942.html"><b>VII. Battalion LSSAH 1942: Peter Mooney</b></a></td>
-            <td><img src="./assets/Wach Battalion Web.png"/></td>
+            <td><img src="./assets/Wach Battalion big.png"/></td>
         </tr>
         <tr>
             <td class="link"><a href="./Sommer_1943.html"><b>Sommer 1943 - SS-Panzer Division Totenkopf: Peter Mooney</b></a></td>
