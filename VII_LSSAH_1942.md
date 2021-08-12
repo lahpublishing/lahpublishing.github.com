@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VII Battalion LSSAH: 1942
-permalink: /VII_Battalion_LSSAH_1942.html
+permalink: /testing.html
 slider: true
 class: book_cover
 ---
