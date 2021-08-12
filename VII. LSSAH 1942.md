@@ -19,7 +19,7 @@ Loyalty and Honour Publishing are pleased to be able to present such a unique, c
 <p>The book format and contents are:
 <ul class="over">
   <li>A4 Landscape format</li>
-  <li>Hard back</li>
+  <li>Hardback</li>
   <li>308 gloss pages</li>
   <li>20+ documents, 110+ full colour illustrations, 120+ photos</li>
   <li>Bi-lingual, English and German</li>
