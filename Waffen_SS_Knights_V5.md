@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Waffen-SS Knights and their Battles - Volume 5
+title: 'Waffen-SS Knights and their Battles - Volume 5'
 permalink: /Waffen_SS_Knights_V5.html
 slider: true
 class: book_cover
