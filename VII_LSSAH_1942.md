@@ -23,7 +23,7 @@ Loyalty and Honour Publishing are pleased to be able to present such a unique, c
   <li>308 gloss pages</li>
   <li>20+ documents, 110+ full colour illustrations, 120+ photos</li>
   <li>Bi-lingual, English and German</li>
-  <li>Price is £65.00 (postage to be confirmed at time of ordering)</li>
+  <li>Price is £60.00 (postage to be confirmed at time of ordering)</li>
 </ul>  
 
 <div id="folio" class="svwp">
