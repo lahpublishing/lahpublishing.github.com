@@ -20,7 +20,7 @@ class: book_cover
   <li>Hard back</li>
   <li>192 gloss pages</li>
   <li>500+ photos, documents, maps, illustrations</li>
-  <li>£55.00 GBP</li>
+  <li>£50.00 GBP</li>
 </ul>  
 
 <div id="folio" class="svwp">
